@@ -47,8 +47,8 @@ A smart productivity app for developers:
 
 ## 📊 GitHub Stats
 
-![Alexandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexnieto&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexnieto&layout=compact&theme=react)
+![Alexandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anieto1&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anieto1&layout=compact&theme=react)
 
 ---
 
