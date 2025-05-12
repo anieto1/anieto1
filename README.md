@@ -30,7 +30,7 @@ A robust microservices architecture with:
 - 🐳 Deployed in **Dockerized containers**.
 - 🔐 Secure and scalable backend architecture.
   
-🔗 [View the repo](https://github.com/yourusername/patient-management-system)
+🔗 [View the repo](https://github.com/anieto1/Patient-Management-System)
 
 ---
 
@@ -41,7 +41,7 @@ A smart productivity app for developers:
 - 🧘‍♂️ Designed with minimalism and clarity.
 - Built using **React**, **Node.js**, and **MongoDB**.
 
-🔗 [View the repo](https://github.com/yourusername/focus-flow)
+🔗 [View the repo](https://github.com/anieto1/focus-flow)
 
 ---
 
